@@ -1,0 +1,65 @@
+# config
+title: GGG's blog
+subtitle: 
+author: 谢盼
+language: zh-Hans
+email: bigggge@163.com #联系邮箱
+url: http://haoduoyu.cc
+
+logo: http://7xq3d5.com1.z0.glb.clouddn.com/logo.png
+logoc: http://7xq3d5.com1.z0.glb.clouddn.com/oursbrun.png
+top_saying:
+- title: WELCOME TO _GGG'S BLOG.  
+- content: 
+bottom_saying:  Miracles happen every day
+# theme_pics_server: http://7xq3d5.com1.z0.glb.clouddn.com
+# Content
+excerpt_link: Read More
+
+rss: 
+
+highlightjs: vs
+
+#Works
+works:
+# - works_name: AAA
+#   works_url: /
+# - works_name: BBB
+#   works_url: /atom.xml
+
+#duoshuo name
+duoshuo: haoduoyu
+
+# Disqus
+#disqus_shortname: yangzj1992
+
+# Miscellaneous
+GitHub: https://github.com/bigggge
+Twitter: https://twitter.com/bigggge_
+Weibo: http://weibo.com/feelingcol
+ZhiHu: http://www.zhihu.com/people/pan-xie-18
+#Shanbay: 
+#Segmentfault: http://segmentfault.com/u/yangzj1992
+#Google: https://profiles.google.com/103095542128057560598
+#Baidu: http://www.baidu.com/p/yangzj1992
+
+#Links
+links:
+- name: Frank Wei
+  link: http://umaru.space
+- name: Touko's diary
+  link: https://touko.moe/
+- name: Panda Bear
+  link: https://blog.kiritoalex.xyz/
+- name: LOGCHAN's BLOG
+  link: https://logu.co
+- name: Sumi Makito
+  link: http://blog.keep.moe/
+
+#Analytics
+#cnzz: true  
+#cnzzaccount: 1000263347
+
+img_server: 
+
+
